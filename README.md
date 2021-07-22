@@ -1,8 +1,8 @@
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [likucs](https://github.com/likucs)
+- [Liku Cs](https://t.me/iAmLiku1)
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
