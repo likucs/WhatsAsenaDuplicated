@@ -79,71 +79,90 @@ the user is responsible.
 
 <div align="center">
   <img src="https://i.hizliresim.com/mm1NBs.jpg" width="200" height="200">
-  <h1>🐺 WhatsAsena Duplicated</h1>
+  <h1>🐺 WhatsAsena</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
         <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        <a href="https://t.me/AsenaSupport">Telegram Group</a> |      
+        <a href="https://t.me/remasterplugin">New Plugin Channel</a> |
     <br>
 </p>
 
 ----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
+<p align="center">
+  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
+  </a>
+  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
+  </a>
+</p>
 
 ## 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
-
-> [New support & help group.](https://t.me/asenaremaster) (New)
+> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
 > [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+
+## ❓ Duplicated?
+**WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
 
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
 
-### Simple Method
+### Simple Method 
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-### The Hard Method
+> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+
+### The Hard Method (Not Recommend)
 ```js
 $ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
+// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
+// Create Config.env and edit it. Examle: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
 $ node bot.js
 ```
 
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ##
 
 ## F.A.Q
 Answer a few frequently asked questions;
-### Can you read my messages?
+### 💬 Can you read my messages?
 This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### What about our security?
+### 🔐 What about our security?
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
-### Is it paid?
+### 💵 Is it paid?
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
-### What does Asena mean?
+### 🌟 Is there enough features?
+Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
+
+### 🛡️ Cyber Attack Protection?
+Only original [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
+
+### 🧠 What is Eva Neural AI?
+**Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
+WhatsAsena has %5 data of **Eva** to interact with users. Our gan datas stored on Brainshop. If users want to access **Eva**, they must start message with `Eva`
+
+### 🐺 What does Asena mean?
 [Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
 
 ##
@@ -154,11 +173,16 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
+
+Your account may be banned for the following reasons:
+- Using .ban command for more than one user.
+- Using fake numbers.
+- Spamming Too Much (If someone complains)
 ```
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
+[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
